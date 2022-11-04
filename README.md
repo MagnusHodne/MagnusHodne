@@ -1,8 +1,6 @@
 # Hey, I'm Magnus! ✌🏼
 I'm a skill acquisition junkie who loves learning new stuff.
 
-Looking for work in the UK
-
 
 ## 🛠 Skills
 Languages: Java, Javascript, Kotlin, C#, some C++
