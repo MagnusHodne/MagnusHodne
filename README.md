@@ -10,7 +10,7 @@ I'm a skill acquisition junkie who loves learning new stuff.
 ## 🛠 Skills
 Languages: Java, Javascript, Kotlin, C#, some C++
 
-Frameworks: React.js, Express, Spring Boot
+Frameworks: React.js, Vue, Express, Spring Boot
 
 ## 🔗 Links
 <!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](LINK HERE)
