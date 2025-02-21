@@ -1,14 +1,14 @@
 # Hey, I'm Magnus! ✌🏼
-I'm a skill acquisition junkie who loves learning new stuff.
+I'm a skill acquisition junkie who loves learning new stuff. Currently *really* into Rust...
 
-👩‍💻 Software developer at [Defero AS](https://defero.no)
+👩‍💻 Software developer at [IBM](https://ibm.com)
 
 😄 Pronouns: He/Him
 
 ## 🛠 Skills
-Languages: Typescript/Javascript, Java, Kotlin, C#, PHP, some C++
+Languages: Rust, Typescript/Javascript, Java, Go
 
-Frameworks: Vue, React.js, Express, Spring Boot, Laravel
+Frameworks: Vue, Quarkus, Spring Boot, Laravel
 
 ## 🔗 Links
 <!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](LINK HERE)
